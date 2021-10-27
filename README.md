@@ -1,4 +1,4 @@
-Olá, eu sou o Diego!
+## Olá, eu sou o Diego!
 <div align="center">
   <a href="https://github.com/diegoslvasantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegoslvasantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
